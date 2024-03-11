@@ -39,4 +39,4 @@ actor calculator {
     cell := 0;
   };
 };
-calculator
+
